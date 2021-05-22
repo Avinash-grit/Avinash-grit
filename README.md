@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Avinash-grit/Avinash-grit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 Hi, I'm Avinash Kumar.
+I work at Ford motor company as a senior data scientist at the intersection of research and engineering solving impactful industry problems.
+
+- 🔭 I’m currently working to optimize Marketing & Sales area.
+- 🌱 I strongly believe in taking small steps each day to get better at my craft.
