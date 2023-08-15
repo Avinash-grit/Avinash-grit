@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # 👋 Hi there, I'm Avinash Kumar.
 #### A principal data scientist at ford, solving impactful industry problems using ML, DL and LLM.
 #
-:boy: **I am ...**
+👨 **I am ...**
 
 •	An accomplished data science leader with 10 years of industry experience with Ford Motors and JP Morgan.
 
@@ -26,11 +26,9 @@ Here are some ideas to get you started:
 •	Exposure of operations, Customer Experience (CX), Marketing & Sales, Manufacturing and Quality analytics.
 
 #
-:chart_with_upwards_trend: **My Career Graph..**
+:chart_with_upwards_trend: **My Professional Journey..**
 
-```mermaid
-graph TD;
-    Infosys-->JP Morgan;
-    JP Morgan-->Ford Motor Co;
-    ```
+[Infosys (Jan 2013 to Oct 2015)](https://infosys.com/) ------------------> [J.P. Morgan (Nov 2015 to Jan 2020)](https://jpmorganchase.com/) ------------------> [Ford Motor Co. (Feb 2020 to Present)](https://ford.com/)
+
+#
 
