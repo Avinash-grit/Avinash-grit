@@ -12,8 +12,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                                                          ** 👋 Hi there, I'm Avinash Kumar. **
-                                   A principal data scientist solving impactful industry problems using ML,DL and LLM.
+# 👋 Hi there, I'm Avinash Kumar.
+#### A principal data scientist at ford, solving impactful industry problems using ML, DL and LLM.
+#
+:boy: **I am ...**
 
-- 🔭 I’m currently working to optimize quality to reduce the warranty cost.
-- 🌱 I strongly believe in taking small steps each day to get better at my craft.
+•	An accomplished data science leader with 10 years of industry experience with Ford Motors and JP Morgan.
+
+•	Leading the team of data scientist and ML Engineer to develop and implement expected business solution. 
+
+•	People Management skill along with Hands-on experience on Machine Learning, NLP, Deep Learning & LLM.
+
+•	Exposure of operations, Customer Experience (CX), Marketing & Sales, Manufacturing and Quality analytics.
+
+#
+:chart_with_upwards_trend: **My Career Graph..**
+
+```mermaid
+graph TD;
+    Infosys-->JP Morgan;
+    JP Morgan-->Ford Motor Co;
+    ```
+
