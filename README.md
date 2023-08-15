@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 Hi, I'm Avinash Kumar.
-I work at Ford motor company as a principal data scientist at the intersection of research and engineering solving impactful industry problems.
+                                                          ## 👋 Hi there, I'm Avinash Kumar.
+                                   A principal data scientist solving impactful industry problems using ML,DL and LLM.
 
 - 🔭 I’m currently working to optimize quality to reduce the warranty cost.
 - 🌱 I strongly believe in taking small steps each day to get better at my craft.
