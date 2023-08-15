@@ -28,7 +28,20 @@ Here are some ideas to get you started:
 #
 :chart_with_upwards_trend: **My Professional Journey..**
 
-[Infosys (Jan 2013 to Oct 2015)](https://infosys.com/) ------------------> [J.P. Morgan (Nov 2015 to Jan 2020)](https://jpmorganchase.com/) ------------------> [Ford Motor Co. (Feb 2020 to Present)](https://ford.com/)
+[Infosys](https://infosys.com/) -----------------------------> [J.P. Morgan ](https://jpmorganchase.com/) ----------------------------> [Ford Motor Co.](https://ford.com/)
 
 #
 
+**Work Experience Summary**
+
+• Total Experience: 10+ Years | 2012 - Present
+
+• Data Science Experience: 8+ Years | 2015 - Present
+
+• Devops Experience: 3 Years | 2013 - 2015
+
+|    Company   |       Role     |    Timeline   |
+| :---         |     :---:      |          ---: |
+|Ford Motor Co|Principal Data scientist|Feb 2020 to Present|
+| J.P. Morgan|Senior Data Scientist|Nov 2015 to Jan 2020|
+| Infosys|Devops Engineer|Jan 2013 to Oct 2015|
