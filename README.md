@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                                                          ## 👋 Hi there, I'm Avinash Kumar.
+                                                          ** 👋 Hi there, I'm Avinash Kumar. **
                                    A principal data scientist solving impactful industry problems using ML,DL and LLM.
 
 - 🔭 I’m currently working to optimize quality to reduce the warranty cost.
