@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi there, I'm Avinash Kumar.
-#### A principal data scientist at ford, solving impactful industry problems using ML, DL and LLM.
+#### A staff data scientist at ford, solving impactful industry problems using ML, DL and LLM.
 #
 👨 **I am ...**
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 **Work Experience Summary**
 
-• Total Experience: 10+ Years | 2012 - Present
+• Total Experience: 10+ Years | 2013 - Present
 
 • Data Science Experience: 8+ Years | 2015 - Present
 
@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 |    Company   |       Role     |    Timeline   |
 | :---         |     :---:      |          ---: |
-|Ford Motor Co|Principal Data scientist|Feb 2020 to Present|
+|Ford Motor Co|Staff Data scientist|Feb 2020 to Present|
 | J.P. Morgan|Senior Data Scientist|Nov 2015 to Jan 2020|
 | Infosys|Devops Engineer|Jan 2013 to Oct 2015|
