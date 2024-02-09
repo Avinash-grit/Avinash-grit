@@ -13,17 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi there, I'm Avinash Kumar.
-#### A staff data scientist at ford, solving impactful industry problems using ML, DL and LLM.
+#### A Lead NLP data scientist at ford, solving impactful industry problems using NLP  and Genrative AI.
 #
 👨 **I am ...**
 
-•	An accomplished data science leader with 10 years of industry experience with Ford Motors and JP Morgan.
+•	An accomplished data science professional with 10 years of industry experience with Ford Motors and JP Morgan.
 
-•	Leading the team of data scientist and ML Engineer to develop and implement expected business solution. 
+•	Leading the use cases w.r.t NLP and Genrative Ai to develop and implement expected business solution. 
 
-•	People Management skill along with Hands-on experience on Machine Learning, NLP, Deep Learning & LLM.
-
-•	Exposure of operations, Customer Experience (CX), Marketing & Sales, Manufacturing and Quality analytics.
+•	Exposure to work for operations, Customer Experience (CX), Marketing & Sales, Manufacturing and Quality team.
 
 #
 :chart_with_upwards_trend: **My Professional Journey..**
@@ -36,12 +34,12 @@ Here are some ideas to get you started:
 
 • Total Experience: 10+ Years | 2013 - Present
 
-• Data Science Experience: 8+ Years | 2015 - Present
+• NLP Data Science Experience: 8+ Years | 2015 - Present
 
 • Devops Experience: 3 Years | 2013 - 2015
 
 |    Company   |       Role     |    Timeline   |
 | :---         |     :---:      |          ---: |
-|Ford Motor Co|Staff Data scientist|Feb 2020 to Present|
+|Ford Motor Co|Lead NLP Data scientist|Feb 2020 to Present|
 | J.P. Morgan|Senior Data Scientist|Nov 2015 to Jan 2020|
 | Infosys|Devops Engineer|Jan 2013 to Oct 2015|
