@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi there, I'm Avinash Kumar.
-#### A NLP/GenAi Data Sciene Deputy Manager at ford, solving impactful industry problems using NLP  and Genrative AI.
+#### A NLP/GenAi Data Science Deputy Manager at ford, solving impactful industry problems using NLP  and Genrative AI.
 #
 👨 **I am ...**
 
