@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 #
 👨 **I am ...**
 
-•	An accomplished data science professional with 10+ years of industry experience with Ford Motors and JP Morgan.
+•	An accomplished data science leader with 10+ years of industry experience with Ford Motors and JP Morgan.
 
 •	Leading the use cases w.r.t NLP and Genrative Ai to develop and implement expected business solution. 
 
