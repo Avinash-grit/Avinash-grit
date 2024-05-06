@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi there, I'm Avinash Kumar.
-#### A NLP/GenAi Data Science Deputy Manager at ford, solving impactful industry problems using NLP  and Genrative AI.
+#### A Lead Data Scientist in NLP-GenAi/Dy. Manager at ford, solving impactful industry problems using NLP and Genrative AI.
 #
 👨 **I am ...**
 
@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
 |    Company   |       Role     |    Timeline   |
 | :---         |     :---:      |          ---: |
-|Ford Motor Co|NLP/GenAi Data Science Deputy Manager|Feb 2020 to Present|
+|Ford Motor Co|Lead Data Scientist- NLP/GenAi|Feb 2020 to Present|
 | J.P. Morgan|Senior Data Scientist|Nov 2015 to Jan 2020|
 | Infosys|Devops Engineer|Jan 2013 to Oct 2015|
