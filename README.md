@@ -13,33 +13,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi there, I'm Avinash Kumar.
-#### A Lead Data Scientist/ Dy. Manager at ford, solving impactful industry problems using NLP and Genrative AI.
+#### An AI-GenAi Architect, Building sustainable architecture to solving impactful industry problems using classic AI and GenAi models.
 #
 👨 **I am ...**
 
-•	An accomplished data science leader with 10+ years of industry experience with Ford Motors and JP Morgan.
+•	An accomplished AI leader with 10+ years of industry experience with companies like Tietoevry, Ford Motors and JP Morgan.
 
-•	Leading the use cases w.r.t NLP and Genrative Ai to develop and implement expected business solution. 
+•	Leading end to end architect for LLM based solutions to getexpected business outcome. 
 
 •	Exposure to work for operations, Customer Experience (CX), Marketing & Sales, Manufacturing and Quality team.
 
 #
 :chart_with_upwards_trend: **My Professional Journey..**
 
-[Infosys](https://infosys.com/) -----------------------------> [J.P. Morgan ](https://jpmorganchase.com/) ----------------------------> [Ford Motor Co.](https://ford.com/)
+[Infosys](https://infosys.com/) ------------> [J.P. Morgan ](https://jpmorganchase.com/)---------------> [Ford Motor Co.](https://ford.com/) -------------> [TietoEvry](https://tietoevry.com/)
 
 #
 
 **Work Experience Summary**
 
-• Total Experience: 10+ Years | 2013 - Present
+• Total Experience: 13 Years | 2013 - Present
 
-• NLP Data Science Experience: 9+ Years | 2015 - Present
+• NLP/Data Science/ML Experience: 10 Years | 2015 - Present
 
-• Devops Experience: 3 Years | 2013 - 2015
+• GenAi/LLM Experience: 3 Years | 2022 - 2025
 
 |    Company   |       Role     |    Timeline   |
 | :---         |     :---:      |          ---: |
-|Ford Motor Co|Lead Data Scientist |Feb 2020 to Present|
+|Tietoevry|AI-GenAi Architect |June 2024 to Present|
+|Ford Motor Co|Lead Data Scientist |Feb 2020 to May 2024|
 | J.P. Morgan|Senior Data Scientist|Nov 2015 to Jan 2020|
 | Infosys|Devops Engineer|Jan 2013 to Oct 2015|
