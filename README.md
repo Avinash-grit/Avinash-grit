@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 •	An accomplished AI leader with 13 years of industry experience with companies like Tietoevry, Ford Motors and JP Morgan.
 
-•	Leading end to end architect for LLM based solutions to getexpected business outcome. 
+•	Leading end to end architect for LLM based solutions to get expected business outcome. 
 
 •	Exposure to work for operations, Customer Experience (CX), Marketing & Sales, Manufacturing and Quality team.
 
