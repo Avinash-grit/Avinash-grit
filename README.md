@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 #
 👨 **I am ...**
 
-•	An accomplished AI leader with 10+ years of industry experience with companies like Tietoevry, Ford Motors and JP Morgan.
+•	An accomplished AI leader with 13 years of industry experience with companies like Tietoevry, Ford Motors and JP Morgan.
 
 •	Leading end to end architect for LLM based solutions to getexpected business outcome. 
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 #
 :chart_with_upwards_trend: **My Professional Journey..**
 
-[Infosys](https://infosys.com/) ------------> [J.P. Morgan ](https://jpmorganchase.com/)---------------> [Ford Motor Co.](https://ford.com/) -------------> [TietoEvry](https://tietoevry.com/)
+[Infosys](https://infosys.com/) ------------> [J.P. Morgan ](https://jpmorganchase.com/)---------------> [Ford Motor Co.](https://ford.com/) -------------> [Tietoevry](https://tietoevry.com/)
 
 #
 
